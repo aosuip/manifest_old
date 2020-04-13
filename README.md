@@ -1,0 +1,2 @@
+# manifest
+AOSuiP global manifest.
