@@ -11,7 +11,7 @@ You just need your device codename and screen resolution.
 Not too hard ?
 
 ## Syncing
-There's no 2 hour syncing to do, just download the **manifest.fig** file
+There's no 2 hour syncing to do, just download the **aosuip-source.fig** file
 
 ## Building
 ![Guide](https://i.imgur.com/URXrErz.png "Guide")
